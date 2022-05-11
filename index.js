@@ -4,6 +4,11 @@ console.log(`Hello Node.js v${process.versions.node}!`);
 
 /**
  * JavaScript Cheat Sheet
- * 
- * 
+ *
+ * Datenstrukturen
+ * Kontrollfluss
+ * Funktionen
+ * Objekte
+ *
+ *
  */
