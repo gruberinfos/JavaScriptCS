@@ -1,0 +1,25 @@
+
+
+== JavaScript - Funktionen
+
+1. Normale Funktionen 
+    func01.js
+    func02.js
+
+2. Anonyme Funktionen
+
+=== Anonyme Funktionen
+Anonyme Funktionen haben keinen Namen, daher sind sie anonym. Die Funktion, welche
+auch ein Objekt ist, wird einer Variablen zugewiesen.
+
+Callbacks
+https://de.wikipedia.org/wiki/R%C3%BCckruffunktion
+https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-eine-callback-function/
+
+Arrow-Funktions
+https://www.peterkroener.de/finger-weg-vom-function-keyword/
+
+Funktionale Programmierung
+https://www.salt-solutions.de/solutions/detail/vorteile-der-funktionalen-programmierung-einfach-erklaert.html
+https://de.wikipedia.org/wiki/Funktionale_Programmierung
+
