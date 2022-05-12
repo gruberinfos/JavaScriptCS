@@ -1,0 +1,6 @@
+
+
+== Datenstrukturen
+
+https://cg.informatik.uni-freiburg.de/course_notes/info2_08_datenstrukturen.pdf
+
