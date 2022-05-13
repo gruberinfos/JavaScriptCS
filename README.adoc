@@ -5,6 +5,16 @@
 
 == JavaScript Cheat Sheet
 === Datenstrukturen
+[cols=","]
+|===
+| Deutsch | Englisch
+
+
+| https://de.wikipedia.org/wiki/Datenstruktur[Datenstruktur]
+| https://en.wikipedia.org/wiki/Data_structure[data structure]
+
+|===
+
   - Variablen und Typen
   - Strings
   - Arrays
