@@ -16,15 +16,15 @@
 |===
 
   - Variablen und Typen
-  - Strings
-  - Arrays
+  - Strings (Zeichenkette)
+  - Arrays (Feld)
   - Assoziative Arrays
-  - Mengen
+  - Mengen (Set)
 
 === Kontrollfluss
   - If, Switch, ternärer Operator
-  - Bedingungen
-  - Schleifen
+  - Bedingungen (Condition)
+  - Schleifen (Loop)
   - Schleifen und Arrays
 
 === Funktionen
