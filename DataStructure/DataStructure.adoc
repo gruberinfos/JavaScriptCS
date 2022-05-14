@@ -4,3 +4,11 @@
 
 https://cg.informatik.uni-freiburg.de/course_notes/info2_08_datenstrukturen.pdf
 
+=== Strings
+JS String Templates
+  https://www.w3schools.com/js/js_string_templates.asp
+  
+=== Arrays
+
+=== Objekte
+
